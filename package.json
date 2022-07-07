@@ -1,0 +1,26 @@
+{
+  "name": "santander-bootcamp-fullstack-developer-1",
+  "version": "1.0.0",
+  "description": "___\r ## 🏁 Tópicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlineAlmeida85/Santander-Bootcamp-Fullstack-Developer-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlineAlmeida85/Santander-Bootcamp-Fullstack-Developer-1/issues"
+  },
+  "homepage": "https://github.com/AlineAlmeida85/Santander-Bootcamp-Fullstack-Developer-1#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
